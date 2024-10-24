@@ -1,0 +1,20 @@
+li{
+    margin: 0 20px;
+    color: white;
+}
+
+.active {
+    color: goldenrod !important;
+    font-weight: bold !important;
+}
+
+/*Mobile Application*/
+.list li{
+    margin: 20px 20px;
+    color: black;
+}
+
+.list li a{
+    font-size: 1.4rem;
+    color: #000;
+}
